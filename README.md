@@ -1,2 +1,2 @@
 # faster-rcnn-pytorch
-An Implement of faster-rcnn by pytorch
+A pytorch Implement of `faster-rcnn`
